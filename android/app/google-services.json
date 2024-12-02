@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218516086071",
+    "project_id": "betconvert-46642",
+    "storage_bucket": "betconvert-46642.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218516086071:android:0d54d0c0405aa313b38eb2",
+        "android_client_info": {
+          "package_name": "com.lesquatro.betconvert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1MXaJEscUmwrEQNtXP2xzcd172xEuNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
